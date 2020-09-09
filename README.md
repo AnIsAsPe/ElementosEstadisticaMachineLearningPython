@@ -1,4 +1,4 @@
-# Generacion-numeros-aleatorios
+# Generación de números aleatorios
 
 ¿Cómo es que nuestras computadoras generan números aleatorios, siendo máquinas completamente predecibles que solo siguen instrucciones?
 
