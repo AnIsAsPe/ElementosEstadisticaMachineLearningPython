@@ -12,6 +12,8 @@ En este curso nos proponemos:
 Conforme vaya avanzando el curso se irán subiendo Notebooks de Jupyter de las clases.
 Se recomienda la instalación de Python mediante la distribución conda en versión Anaconda o Miniconda, ya que su uso es frecuente en entronos industriales y académicos. En este repositorio encontrarán una [guía para la instalación de Python](https://github.com/AnIsAsPe/ElementosEstadisticaMachineLearningPython/blob/master/Instalaci%C3%B3n%20Python%20y%20Enorno%20de%20Trabajo.pdf) mediante Miniconda.
 
+Igualmente es posible utilizar los Notebooks en la nube mediante el entorno gratuito [Google Colab](https://colab.research.google.com/) sin necesidad de instalar ni configurar nada.
+
 
 
 
