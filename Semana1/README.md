@@ -1,1 +1,1 @@
-# Observación de distribuciones de variables aleatorias y generación de Variables Bernulli
+# Espacio de probabilidad de variables aleatorias
