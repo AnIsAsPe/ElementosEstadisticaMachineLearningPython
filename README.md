@@ -2,7 +2,7 @@
 
 El presente repositorio se refiere a un curso que en colaboración con el [Colegio de Matemáticas Bourbaki](https://www.colegio-bourbaki.com/) impartimos en alianza con el [Instituto Humai](https://ihum.ai/)
 
-La fecha de inicio del próximo curso es el martes 22 de septiembre de 2020 y puedes registrarte en: https://ihum.ai/cursos/estadistica
+Busca las fechas de inicio del próximo curso en: https://ihum.ai/cursos/estadistica
 
 En este curso nos proponemos: 
 1. Estudiar los fundamentos matemáticos de la estadística y la probabilidad necesarios para construir una intuición poderosa del estudiante en Ciencia de Datos
